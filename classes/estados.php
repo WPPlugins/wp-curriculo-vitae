@@ -1,0 +1,30 @@
+<?php
+	$estadoArray = array();
+	$estadoArray['AC'] = "Acre";
+	$estadoArray['AL'] = "Alagoas";
+	$estadoArray['AP'] = "Amapá";
+	$estadoArray['AM'] = "Amazonas";
+	$estadoArray['BA'] = "Bahia";
+	$estadoArray['CE'] = "Ceará";
+	$estadoArray['DF'] = "Distrito Federal";
+	$estadoArray['ES'] = "Espírito Santo";
+	$estadoArray['GO'] = "Goiás";
+	$estadoArray['MA'] = "Maranhão";
+	$estadoArray['MT'] = "Mato Grosso";
+	$estadoArray['MS'] = "Mato Grosso do Sul";
+	$estadoArray['MG'] = "Minas Gerais";
+	$estadoArray['PR'] = "Paraná";
+	$estadoArray['PB'] = "Paraíba";
+	$estadoArray['PA'] = "Pará";
+	$estadoArray['PE'] = "Pernambuco";
+	$estadoArray['PI'] = "Piauí";
+	$estadoArray['RJ'] = "Rio de Janeiro";
+	$estadoArray['RN'] = "Rio Grande do Norte";
+	$estadoArray['RS'] = "Rio Grande do Sul";
+	$estadoArray['RO'] = "Rondonia";
+	$estadoArray['RR'] = "Roraima";
+	$estadoArray['SC'] = "Santa Catarina";
+	$estadoArray['SE'] = "Sergipe";
+	$estadoArray['SP'] = "São Paulo";
+	$estadoArray['TO'] = "Tocantins";
+?>
